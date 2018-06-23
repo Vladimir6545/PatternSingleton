@@ -1,0 +1,12 @@
+D:\KateWPF\SingletonsTest\SingletonsTest\bin\Debug\SingletonsTest.exe.config
+D:\KateWPF\SingletonsTest\SingletonsTest\obj\Debug\SingletonsTest.csprojResolveAssemblyReference.cache
+D:\KateWPF\SingletonsTest\SingletonsTest\bin\Debug\SingletonsTest.exe
+D:\KateWPF\SingletonsTest\SingletonsTest\bin\Debug\SingletonsTest.pdb
+D:\KateWPF\SingletonsTest\SingletonsTest\obj\Debug\SingletonsTest.exe
+D:\KateWPF\SingletonsTest\SingletonsTest\obj\Debug\SingletonsTest.pdb
+E:\Dropbox\SinglotonExample\SingletonsTest\SingletonsTest\bin\Debug\SingletonsTest.exe.config
+E:\Dropbox\SinglotonExample\SingletonsTest\SingletonsTest\obj\Debug\SingletonsTest.exe
+E:\Dropbox\SinglotonExample\SingletonsTest\SingletonsTest\obj\Debug\SingletonsTest.pdb
+E:\Dropbox\SinglotonExample\SingletonsTest\SingletonsTest\bin\Debug\SingletonsTest.exe
+E:\Dropbox\SinglotonExample\SingletonsTest\SingletonsTest\bin\Debug\SingletonsTest.pdb
+E:\Dropbox\SinglotonExample\SingletonsTest\SingletonsTest\obj\Debug\SingletonsTest.csprojResolveAssemblyReference.cache
